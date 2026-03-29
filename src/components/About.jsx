@@ -16,7 +16,7 @@ const About = () => {
           viewport={{ once: true }}
         >
           <p className="uppercase mb-6 text-xs tracking-[0.15em] text-gray-400"
-             style={{ fontFamily: "'Helvetica Neue', Helvetica, Arial, sans-serif" }}>
+            style={{ fontFamily: "'Helvetica Neue', Helvetica, Arial, sans-serif" }}>
             About Me
           </p>
 
@@ -62,11 +62,11 @@ const About = () => {
                 className="pt-3 border-t border-white/10"
               >
                 <p className="uppercase mb-1 text-[11px] tracking-widest text-gray-400"
-                   style={{ fontFamily: "'Helvetica Neue', Helvetica, Arial, sans-serif" }}>
+                  style={{ fontFamily: "'Helvetica Neue', Helvetica, Arial, sans-serif" }}>
                   {item.label}
                 </p>
                 <p className="text-sm text-[#F5F5F5]"
-                   style={{ fontFamily: "'Helvetica Neue', Helvetica, Arial, sans-serif" }}>
+                  style={{ fontFamily: "'Helvetica Neue', Helvetica, Arial, sans-serif" }}>
                   {item.value}
                 </p>
               </div>
