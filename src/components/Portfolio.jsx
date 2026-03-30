@@ -8,7 +8,7 @@ const projects = [
     title: "Portfolio Website",
     desc: "Website portfolio personal yang dibangun menggunakan React, Vite, dan TailwindCSS. Menampilkan informasi diri, skills, dan project.",
     tags: ["React", "Vite", "TailwindCSS", "Framer Motion"],
-    github: "https://github.com/AhmadNrsy",
+    github: "https://github.com/AhmadNrsy/my-portfolio",
     live: null,
   },
   {
