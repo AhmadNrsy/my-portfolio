@@ -37,7 +37,7 @@ const Navbar = () => {
           className="text-xl font-bold tracking-tight text-[#F5F5F5]"
           style={{ fontFamily: "'Times New Roman', serif" }}
         >
-          Ahmad<span className="text-gray-400">.</span>
+          Ahmad<span className="text-gray-400">NDS.</span>
         </a>
 
         {/* DESKTOP MENU */}

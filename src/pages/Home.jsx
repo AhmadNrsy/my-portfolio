@@ -15,7 +15,7 @@ function Home() {
       <Skills />
       <Portfolio />
       <Contact />
-      <Footer />
+      
     </>
   )
 }
