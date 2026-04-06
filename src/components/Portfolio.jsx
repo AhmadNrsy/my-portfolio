@@ -139,7 +139,7 @@ const Portfolio = () => {
           </motion.div>
 
         {/* GAME DARI API */}
-          {games.slice(0, 10).map((game, i) => (
+          {games.slice(0, 20).map((game, i) => (
             <Link key={game.id} to={`/game/${game.id}`}>
               <motion.div
                 initial={{ opacity: 0, y: 20 }}
